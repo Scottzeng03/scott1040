@@ -20,3 +20,6 @@
 - [EX02-04](EX02_04_Download_Pokemon_Images.ipynb)
 - [EX02-05](EX02_05_PTT_Gossiping.ipynb)
 - [EX02-06](EX02_06_開眼電影.ipynb)
+- [EX02-07](EX02_07_KKDay.ipynb)
+
+## 03 Web Crawler
