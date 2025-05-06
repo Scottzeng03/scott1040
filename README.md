@@ -35,3 +35,4 @@
 ## 05 Web API
 - [EX05-01](EX05_01_Echo_Bot.ipynb)
 - [EX05-02](EX05_02_Ask_Gemini.ipynb)
+- [EX05-03](EX05_03_Reply_Multi_type_Messages.ipynb)
